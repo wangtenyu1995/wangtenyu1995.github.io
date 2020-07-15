@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Site/SEO settings
 email: okay@samesies.io
 baseurl: ""
@@ -84,3 +85,6 @@ exclude:
   - package.json
   - README.md
   - vendor
+=======
+theme: jekyll-theme-architect
+>>>>>>> parent of c451c4b... bold
